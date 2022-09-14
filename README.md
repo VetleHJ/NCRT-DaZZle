@@ -1,4 +1,4 @@
-- 👋 Hi, I’m DaZZle
+- 👋 Hi, I’m Vetle
 - 👀 I’m interested in computer technology
 - 🌱 I’m currently studying a degree in computer engineering and cyber security
 - 💞️ I’m looking to improve and learn by my self and with others
