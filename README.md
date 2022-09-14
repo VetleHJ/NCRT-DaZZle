@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @NCRT-DaZZle
+- 👋 Hi, I’m DaZZle
 - 👀 I’m interested in computer technology
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on Summitware
-- 📫 How to reach me vetle.h.jensen@gmail.com
+- 🌱 I’m currently studying a degree in computer engineering and cyber security
+- 💞️ I’m looking to improve and learn by my self and with others
+- 📫 How to reach me vetle.h.jensen03@gmail.com
 
 <!---
 NCRT-DaZZle/NCRT-DaZZle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
